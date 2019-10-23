@@ -1,0 +1,15 @@
+To Compile
+----------------
+
+mvn clean install
+
+To Run
+----------------
+
+a. open shell and go to project directory
+b. execute following command
+
+  java --module-path mods-mvn --module modularity.child.runner/modularity.child.runner.Runner
+
+c. expected output "welcome!!! Prateek"
+
